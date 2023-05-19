@@ -1,58 +1,58 @@
 [
     {
-        "nombre": "HolaHola",
-        "fotos": ["https://picsum.photos/id/252/500/310", "https://picsum.photos/id/152/500/310", "https://picsum.photos/id/282/500/310"],
-        "soporte": "Sustentabilidad",
-        "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
-    },
-    {
-        "nombre": "Segundo título",
-        "fotos": ["https://picsum.photos/id/3/500/310", "https://picsum.photos/id/3/500/310", "https://picsum.photos/id/3/500/310"],
-        "soporte": "Redes Sociales",
-        "abstract": "Sed feugiat laoreet tellus quis ullamcorper",
-        "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
-    },
-    {
-        "nombre": "Tercer título",
-        "fotos": ["https://picsum.photos/id/464/500/310", "https://picsum.photos/id/464/500/310", "https://picsum.photos/id/464/500/310"],
+        "nombre": "Auto Marca",
+        "fotos": ["images/maja1.png", "images/maja3.png", "images/maja2.png"],
         "soporte": "Branding",
-        "abstract": "Consectetur adipiscing elit, sed feugiat laoreet tellus",
+        "abstract": "Logo de marca autoreferente junto a su uso",
+        "texto": "El logo circular de la marca MAJA, con su disposición en forma de cruz y los colores blanco y negro, personifica la identidad única de María Javiera en el ámbito del diseño. Este distintivo emblema visual transmite equilibrio, elegancia y una profunda conexión entre los diferentes aspectos de su trabajo. La forma circular representa la continuidad y evolución constante, mientras que el contraste entre el blanco y el negro simboliza autenticidad y profesionalismo. La disposición en forma de cruz añade un toque simbólico, reflejando la interrelación de los elementos clave en la marca MAJA. Con este logo, MAJA se posiciona como una marca memorable y sofisticada, reflejando el compromiso de María Javiera con la excelencia y la cohesión visual."
+    },
+    {
+        "nombre": "Marea Roja",
+        "fotos": ["images/mar-01.png", "images/mar-02.png", "images/mar-03.png"],
+        "soporte": "Afiche",
+        "abstract": "Trabajo en xilografía e nbase a poeta chilena",
         "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
     },
     {
-        "nombre": "Cuarto título",
-        "fotos": ["https://picsum.photos/id/39/500/310", "https://picsum.photos/id/39/500/310", "https://picsum.photos/id/39/500/310"],
-        "soporte": "Redes Sociales",
-        "abstract": "Nunc efficitur commodo risus, at sagittis dui accumsan",
-        "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
-    },
-    {
-        "nombre": "Quinto título",
-        "fotos": ["https://picsum.photos/id/42/500/310", "https://picsum.photos/id/42/500/310", "https://picsum.photos/id/42/500/310"],
+        "nombre": "Automotora",
+        "fotos": ["images/auto-01.png", "images/auto-02.png", "images/auto-03.png"],
         "soporte": "Branding",
-        "abstract": "Donec risus neque, efficitur in sollicitudin vestibulum",
+        "abstract": "Mockups con diversas propuestas para identidad de automotoras",
         "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
     },
     {
-        "nombre": "Sexto título",
-        "fotos": ["https://picsum.photos/id/435/500/310", "https://picsum.photos/id/435/500/310", "https://picsum.photos/435/20/500/310"],
-        "soporte": "Sustentabilidad",
-        "abstract": "Suspendisse dui nulla, facilisis lobortis tortor",
+        "nombre": "Wild Gummies",
+        "fotos": ["images/wild-01.png", "images/wild-03.png", "images/wild-02.png"],
+        "soporte": "Producto",
+        "abstract": "Productpo nuevo junto a marca en base a proteínas",
+        "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
+    },
+        {
+        "nombre": "Efelamp",
+        "fotos": ["images/efelamp-02.png", "images/efelamp-01.png", "images/efelamp-03.png"],
+        "soporte": "Producto",
+        "abstract": "Lampara de niños industrializable con forma de elefante",
         "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
     },
     {
-        "nombre": "Séptimo título",
-        "fotos": ["https://picsum.photos/id/20/500/310", "https://picsum.photos/id/20/500/310", "https://picsum.photos/id/20/500/310"],
+        "nombre": "SUP",
+        "fotos": ["images/sup-01.png", "images/sup-02.png", "images/sup-03.png"],
         "soporte": "Branding",
-        "abstract": "Nam nec eros fringilla, ultrices velit in, dapibus",
+        "abstract": "Identidad demarca para antiresaca",
         "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
     },
     {
-        "nombre": "Octavo título",
-        "fotos": ["https://picsum.photos/id/460/500/310", "https://picsum.photos/id/460/500/310", "https://picsum.photos/id/460/500/310"],
-        "soporte": "Redes Sociales",
-        "abstract": "Donec convallis justo nulla, et ultrices sem fringilla",
+        "nombre": "Espécimen Tipográfico",
+        "fotos": ["images/especimen-01.png", "images/especimen-02.png", "images/especimen-03.png"],
+        "soporte": "Afiche",
+        "abstract": "Espécimen tipográfico para tipografía 'Totally Gothic'",
+        "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
+    },
+    {
+        "nombre": "Zuri",
+        "fotos": ["images/zuri-01.png", "images/zuri-02.png", "images/zuri-03.png"],
+        "soporte": "Producto",
+        "abstract": "Tacones realizados en base a plásticos desechados",
         "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
     }
 
